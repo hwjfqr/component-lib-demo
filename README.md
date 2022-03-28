@@ -1,27 +1,3 @@
-# component-lib-demo
+# React 组件库搭建案例
 
-## Getting Started
-
-Install dependencies,
-
-```bash
-$ npm i
-```
-
-Start the dev server,
-
-```bash
-$ npm start
-```
-
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
-```
+帮助文档：https://zhuanlan.zhihu.com/p/443522270
