@@ -1,3 +1,3 @@
-# React 组件库搭建案例
+# component-lib-demo
 
-帮助文档：https://zhuanlan.zhihu.com/p/443522270
+从零开始搭建 React 组件库：https://www.yuque.com/u109677/ncfyh7/phighc
